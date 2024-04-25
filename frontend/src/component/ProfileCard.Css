@@ -1,0 +1,8 @@
+.deleteBtn:hover{
+    color: red !important;
+    cursor: pointer !important;
+}
+
+.BtnPointer{
+    cursor: pointer !important;
+}

@@ -1,0 +1,29 @@
+ 
+ .bgImgContainer{
+    z-index: -999;
+ }
+ .btn-Like-and-tweet{
+    width: 50%;
+}
+
+@media screen and (min-width:200px) and (max-width:300px) {
+    .btnContainer{
+        margin-top: 20px !important;
+        display: flex;
+        flex-direction: column !important;
+    }
+
+    .btnContainer button{
+        font-size: 7px;
+        margin: 3px;
+    }
+    .btnContainerfollow{
+        margin-top: 0px !important;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width:768px) {
+    .btn-Like-and-tweet{
+        width: 100%;
+    }
+}

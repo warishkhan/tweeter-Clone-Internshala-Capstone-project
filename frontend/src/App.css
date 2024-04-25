@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.bgImgContainer{
+  height: 150px;
+  background-color: blue;
+}
+
+.profileImgContainer{
+  position: relative;
+  bottom: 35px;
+}
+.btnContainer{
+  position: relative;
+  top: 20px;
+}
+
+
+

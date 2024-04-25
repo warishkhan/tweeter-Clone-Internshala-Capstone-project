@@ -1,0 +1,22 @@
+.cursorCss{
+    cursor: pointer  !important;
+}
+.sideBarBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list-group-item:hover{
+    background-color: lavender;
+}
+
+@media screen and (max-width:300px) {
+    .position-sticky{
+        width: 100% !important;
+    }
+}
+@media screen and (min-width:300px) and (max-width:768px){
+    .position-sticky{
+        width: 100% !important;
+    }
+}
